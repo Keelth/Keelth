@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Unity 3D (C#)**
 
-- 👯 I’m looking to collaborate on **Game Developemnt for Learinng purposes.**
+- 👯 I’m looking to collaborate on **Game Developemnt for Learning purposes.**
 
 - 🤝 I’m looking for help with **Game Development.**
 
