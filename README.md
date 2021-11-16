@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alvaro</h1>
-<h3 align="center">
+<h3>
 Thanks for stopping by!
 
 I am a Developer and soon to finalize my Software Engineering degree.
 
-My past IT experience includes multinational companies like Sabre, IBM and Tata Consultancy Services where I was able to further develop my soft skills such as collaboration, communication, problem solving, adaptability and curiosity to learn and grow.
-
-I enjoy a good challenge and solid teamwork. The things I appreciate the most about a company are the ability of working with cutting edge technology, a diverse multicultural workforce, a solid base for constant learning and mentoring, and also commonly shared values.
-
+I enjoy a good challenge and solid teamwork. 
+  
 In my free time I enjoy playing videogames, listening to music, skating and discovering new places. I am also a foodie!
 
 Feel free to reach out if you would like to know more about my profile!</h3>
