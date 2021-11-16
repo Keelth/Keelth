@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alvaro</h1>
-<h3>
+<h4 align="center">
   
 I am a Developer and soon to finalize my Software Engineering degree.
 
@@ -7,11 +7,19 @@ I enjoy a good challenge and solid teamwork.
   
 In my free time I enjoy coding, playing videogames, listening to music.
 
-Feel free to reach out if you would like to know more about my profile!</h3>
+Feel free to reach out if you would like to know more about my profile!
+  
+</h5>
 
-- 🌱 I’m currently learning **JavaScript, React, Tailwind, Boostrap**
+<h4 align="center">
+  
+🌱 I’m currently learning **JavaScript, React, Tailwind, Boostrap**
 
-- 📫 How to reach me **alvaropardo@live.com**
+📫 How to reach me **alvaropardo@live.com**
+
+</h5>
+  
+<h1></h1>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px" heigth="30px"/>
@@ -29,6 +37,12 @@ Feel free to reach out if you would like to know more about my profile!</h3>
   </p><p align="center">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/alvaro-pardo-miramontes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/alvaro-pardo-miramontes" height="30" width="30" /></a>
 </p>
+  
+  
+<h1 align="center">
+  
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Keelth&show_icons=true&theme=tokyonight)
 
-<div align="center"><p>![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Keelth&show_icons=true&theme=tokyonight)</p></div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keelth&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+</h1>
