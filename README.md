@@ -29,3 +29,5 @@ Feel free to reach out if you would like to know more about my profile!</h3>
   </p><p align="center">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/alvaro-pardo-miramontes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/alvaro-pardo-miramontes" height="30" width="30" /></a>
 </p>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Keelth)](https://github.com/anuraghazra/github-readme-stats)
