@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alvaro</h1>
 <h3>
-Thanks for stopping by.
-
 I am a Developer and soon to finalize my Software Engineering degree.
 
 I enjoy a good challenge and solid teamwork. 
