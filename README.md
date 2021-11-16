@@ -1,14 +1,33 @@
 <h1 align="center">Hi 👋, I'm Alvaro</h1>
-<h3 align="center">A Software Engineering Student, I am a fast learner who loves a good challenge and teamwork. I am looking for my first experience as a developer to boost my talent and knowledge. I am Passionate about video games and want to be a game developer!</h3>
+<h3 align="center">
+Thanks for stopping by!
 
-- 🌱 I’m currently learning **Unity 3D (C#)**
+I am a Developer and soon to finalize my Software Engineering degree.
 
-- 👯 I’m looking to collaborate on **Game Developemnt for Learning purposes.**
+My past IT experience includes multinational companies like Sabre, IBM and Tata Consultancy Services where I was able to further develop my soft skills such as collaboration, communication, problem solving, adaptability and curiosity to learn and grow.
 
-- 🤝 I’m looking for help with **Game Development.**
+I enjoy a good challenge and solid teamwork. The things I appreciate the most about a company are the ability of working with cutting edge technology, a diverse multicultural workforce, a solid base for constant learning and mentoring, and also commonly shared values.
+
+In my free time I enjoy playing videogames, listening to music, skating and discovering new places. I am also a foodie!
+
+Feel free to reach out if you would like to know more about my profile!</h3>
+
+- 🌱 I’m currently learning **JavaScript, React, Tailwind, Boostrap**
 
 - 📫 How to reach me **alvaropardo@live.com**
 
-<p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></p><p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alvaro-pardo-miramontes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/alvaro-pardo-miramontes" height="30" width="30" /></a>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  
+  </p><p align="center">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/alvaro-pardo-miramontes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-                    icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/alvaro-pardo-miramontes" height="30" width="30" /></a>
 </p>
