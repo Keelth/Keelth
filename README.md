@@ -30,5 +30,5 @@ Feel free to reach out if you would like to know more about my profile!</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px" heigth="30px"/>
   
   </p><p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/alvaro-pardo-miramontes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/alvaro-pardo-miramontes" height="30" width="30" /></a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/alvaro-pardo-miramontes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/alvaro-pardo-miramontes" height="30" width="30" /></a>
 </p>
