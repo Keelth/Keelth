@@ -5,7 +5,7 @@ I am a Developer and soon to finalize my Software Engineering degree.
 
 I enjoy a good challenge and solid teamwork. 
   
-In my free time I enjoy playing videogames, listening to music, skating and discovering new places. I am also a foodie!
+In my free time I enjoy coding, playing videogames, listening to music.
 
 Feel free to reach out if you would like to know more about my profile!</h3>
 
