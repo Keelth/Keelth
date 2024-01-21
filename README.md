@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alvaro</h1>
 <h4 align="center">
   
-I am a Developer and soon to finalize my Software Engineering degree.
+I am a Developer and Software Engineer.
 
 I enjoy a good challenge and solid teamwork. 
   
-In my free time I enjoy coding, playing videogames, listening to music.
+In my free time I enjoy coding, playing videogames and listening to music.
 
 Feel free to reach out if you would like to know more about my profile!
   
