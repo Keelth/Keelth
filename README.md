@@ -13,7 +13,7 @@ Feel free to reach out if you would like to know more about my profile!
 
 <h4 align="center">
   
-🌱 I’m currently learning **JavaScript, React, Tailwind, Boostrap**
+🌱 I’m currently learning **Unity, Flutter**
 
 📫 How to reach me **alvaropardo@live.com**
 
